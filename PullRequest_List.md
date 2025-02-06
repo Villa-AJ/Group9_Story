@@ -5,3 +5,5 @@ Alain Mignot - team-rude-story https://github.com/tlthom28/team-rude-story/pull/
 Jose Villafana - https://github.com/Uli115/DagobahStory/pull/9
 
 Ruby Ledezma Perez - https://github.com/Uli115/DagobahStory/pull/10
+
+Roman Rabago - Icebreaker_Story https://github.com/djacks40-1/Icebreaker_Story/pull/3
